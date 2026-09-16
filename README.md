@@ -24,16 +24,13 @@ Pasé de ventas a desarrollo de software y no paré de aprender desde entonces. 
 ### 🚀 Proyectos destacados
 
 - **[Vida Extra — Tu Billetera Gamer](https://github.com/vidaextragl/M6-Frontend)** — billetera fintech para gamers/eSports con multi-moneda y cashback. Proyecto final Full Stack de Soy Henry, en equipo. `React` `TypeScript` `Node.js` `PostgreSQL`
-- **Patagonix Tech** — e-commerce de zapatillas con funcionalidades de IA, entregado en un sprint de 3–4 días. `React 18` `Firebase` `AWS S3`
+- **[Patagonix Tech](https://github.com/JuanElizondo-MX/ecommerce-patagonix)** — e-commerce de zapatillas con funcionalidades de IA, entregado en un sprint de 3–4 días. `React 18` `Firebase` `AWS S3`
 - **Gestor Estratégico de Tareas** — app de gestión de tareas para una startup ficticia, con tema día/noche animado. `React` `Firebase` `AWS SES`
 - **Puente entre Mundos** — SPA de chat con personajes de IA vía Gemini. `JavaScript` `Vercel Functions`
 - **miniblog-api** — API REST documentada con Swagger, testeada con Jest/Supertest. `Node.js` `Express` `PostgreSQL`
 - **Colorfly Studio** — generador de paletas de color con guardado de favoritos. `HTML` `CSS` `JavaScript`
 
 ### 📊 Estadísticas
-
-![Estadísticas de Juan](https://github-readme-stats.vercel.app/api?username=JuanElizondo-MX&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanElizondo-MX&layout=compact&hide_border=true)
 
 ![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=JuanElizondo-MX&hide_border=true)
 
